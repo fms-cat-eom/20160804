@@ -1,11 +1,13 @@
-# Everyday One Motion - 20160804 "Reaction-Diffusion"  
+# Everyday One Motion - 20160804  
+
+"Reaction-Diffusion"  
 
 ![](20160804.gif)  
 
 JavaScript, WebGL  
 
 [Everyday One Motion](http://motions.work/motion/344)  
-[Demo Page](http://fms-cat.github.io/eom_20160804/dist)  
+[Demo Page](http://fms-cat-eom.github.io/20160804/dist)  
 
 ## 8月
 
